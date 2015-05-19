@@ -1,0 +1,15 @@
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/116-view-117.nib
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-116.nib
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/
+/Users/student/Projects/TipAssistant/TipAssistant/bin/iPhoneSimulator/Debug/TipAssistant.exe.mdb
+/Users/student/Projects/TipAssistant/TipAssistant/bin/iPhoneSimulator/Debug/TipAssistant.exe
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/TipAssistant.exe
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/TipAssistant.exe.mdb
+/Users/student/Projects/TipAssistant/TipAssistant/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-39.nib

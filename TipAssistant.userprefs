@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="TipAssistant\TipAssistant.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipAssistant\TipAssistantViewController.cs">
+    <Files>
+      <File FileName="TipAssistant\TipAssistantViewController.cs" Line="1" Column="1" />
+      <File FileName="TipAssistant\TipTotalViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
